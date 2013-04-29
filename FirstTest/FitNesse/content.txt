@@ -1,0 +1,7 @@
+
+
+'''START Auto-generated Eclipse Classpath'''
+!path /Users/Natasha/Documents/Dev/EclipseWorkspace/MyFirstFitNesseTesting/bin
+!path /Users/Natasha/Documents/Dev/eclipse/plugins/com.bandxi.fitnesse.launcher_1.0.2/lib/fitnesse.jar
+!path /Users/Natasha/Documents/Dev/eclipse/plugins/com.bandxi.fitnesse.launcher_1.0.2/lib/fitlibrary.jar
+'''END Auto-generated Eclipse Classpath'''

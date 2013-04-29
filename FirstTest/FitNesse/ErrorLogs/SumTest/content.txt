@@ -1,0 +1,4 @@
+|'''Date: '''|!-12:01:44 AM (WEST) on Monday, April 29, 2013-!|
+|'''Command: '''|!-java -cp /Users/Natasha/Documents/Dev/EclipseWorkspace/MyFirstFitNesseTesting/bin:/Users/Natasha/Documents/Dev/eclipse/plugins/com.bandxi.fitnesse.launcher_1.0.2/lib/fitnesse.jar:/Users/Natasha/Documents/Dev/eclipse/plugins/com.bandxi.fitnesse.launcher_1.0.2/lib/fitlibrary.jar fit.FitServer localhost 9083 17-!|
+|'''Exit code: '''|!-0-!|
+|'''Time elapsed: '''|!-1.14 seconds-!|

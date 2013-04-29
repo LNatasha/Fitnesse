@@ -1,0 +1,10 @@
+!2  My Sum Test
+
+This is the data for my first fitness test.
+Inputs: val1 and val2 
+Output: sum()
+Sum: Is math operation that sum val1 with val2
+|  !-fitnesse.Mysum-!       |
+| val1 |  val2|    sum()         |
+|  0  |  5  |    5           |
+|-3  |  0  |    -3         |
